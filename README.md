@@ -2,7 +2,7 @@
 
 My Hyprland Rice Configurations
 
-
+![Rice Screenshot](./screenshot.png)
 
 
 ```bash
@@ -11,6 +11,12 @@ git clone https://github.com/anmol-fzr/hypr
 cd hypr
 chmod +x setup.sh
 ./setup.sh
+
+```
+OR
+```bash
+
+git clone https://github.com/anmol-fzr/hypr && cd hypr && chmod +x setup.sh && ./setup.sh
 
 ```
 
