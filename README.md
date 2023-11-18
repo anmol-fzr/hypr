@@ -3,7 +3,7 @@
 My Hyprland Rice Configurations
 
 ![Rice Screenshot](https://i.imgur.com/K3nBKXl.png)
-
+[Statusbar (Waybar) Configuration](https://github.com/anmol-fzr/waybar)
 
 ```bash
 
