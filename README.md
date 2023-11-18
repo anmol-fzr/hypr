@@ -2,7 +2,7 @@
 
 My Hyprland Rice Configurations
 
-![Rice Screenshot](./screenshot.png)
+![Rice Screenshot](https://i.imgur.com/K3nBKXl.png)
 
 
 ```bash
